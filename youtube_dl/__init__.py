@@ -357,6 +357,7 @@ def _real_main(argv=None):
         'continuedl': opts.continue_dl,
         'noprogress': opts.noprogress,
         'progress_with_newline': opts.progress_with_newline,
+        'justprogress': opts.justprogress,
         'playliststart': opts.playliststart,
         'playlistend': opts.playlistend,
         'playlistreverse': opts.playlist_reverse,

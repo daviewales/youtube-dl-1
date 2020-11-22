@@ -37,6 +37,7 @@ class FileDownloader(object):
     noresizebuffer:     Do not automatically resize the download buffer.
     continuedl:         Try to continue downloads if possible.
     noprogress:         Do not print the progress bar.
+    justprogress:      Print just the progress bar.
     logtostderr:        Log messages to stderr instead of stdout.
     consoletitle:       Display progress in console window's titlebar.
     nopart:             Do not use temporary .part files.
